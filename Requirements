@@ -1,0 +1,5 @@
+1. Given a URL, our service should generate a shorter and unique alias of it. This is called a short link. 
+	This link should be short enough to be easily copied and pasted into applications.
+2. When users access a short link, our service should redirect them to the original link.
+3. Users should optionally be able to pick a custom short link for their URL.
+4. Links will expire after a standard default timespan. Users should be able to specify the expiration time.
